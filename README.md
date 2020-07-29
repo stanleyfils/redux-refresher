@@ -1,3 +1,1 @@
-![reference-image](/images/redux-dev-tools.png)
-
-test
+![](/images/redux-dev-tools.png)

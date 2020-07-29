@@ -5,7 +5,7 @@ import * as serviceWorker from "./serviceWorker";
 import { createStore } from "redux";
 // add combineReducers to reducers index.js file when working with multiple reducers.
 // You can add it here, but I like to keep this file lean
-// no need to type out ./reducers/index. Redux automatically know
+// no need to type out ./reducers/index. Redux automatically
 import allReducers from "./reducers";
 import { Provider } from "react-redux";
 
